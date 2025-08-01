@@ -2,7 +2,7 @@
 
 This is a simple **personal portfolio website** built using **HTML** and **CSS**. It consists of two main pages: a **Home page** and a **Contact page**. The website highlights personal interests, projects, and includes a form for visitors to get in touch.
 
-Link to project:https://dharshiniyay.github.io/portfolio-simple-website-/
+<p>Link to project: https://dharshiniyay.github.io/portfolio-simple-website-/</p>
 ---
 
 ## 🧰 Technologies Used
